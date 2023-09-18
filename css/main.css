@@ -108,7 +108,12 @@ hr {
 }
 
 .button-main.button-scheme {
-  color: #fff;
+  color: #fff !important;
+  font-weight: bold;
+}
+
+.my-skills .button-main.button-scheme{
+  margin: 0 10px 10px 0;
 }
 
 /* Section, title & description styles */
@@ -889,8 +894,8 @@ hr {
 }
 
 .hire-area .hire-description {
-  color: #9f9f9f;
-  font-size: 15px;
+  color: #fff4f4;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -1431,18 +1436,18 @@ hr {
 }
 
 .footer-area .contact-info .info-content {
-  color: #dcdcdc;
+  color: #fff4f4;
   font-size: 15px;
   margin-bottom: 0;
 }
 
 .footer-area .contact-info .info-content a {
-  color: #dcdcdc;
+  color: #fff4f4;
 }
 
 .footer-area .contact-info .info-content a:hover,
 .footer-area .contact-info .info-content a:focus {
-  color: #e9e9e9;
+  color: #fff4f4;
 }
 
 .footer-area .mini-footer {

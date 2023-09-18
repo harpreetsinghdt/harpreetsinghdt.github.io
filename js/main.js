@@ -596,8 +596,8 @@
     /*----------- Testimonials -----------*/
 
     $('.testimonials-area .owl-carousel').owlCarousel({
-      items: 3,
-      loop: true,
+      items: 1,
+      loop: false,
       margin: 30,
       nav: false,
       dots: true,
